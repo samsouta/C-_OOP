@@ -1,0 +1,14 @@
+/Users/samsouta/Desktop/C#_OOP/bin/Debug/net10.0/C#_OOP
+/Users/samsouta/Desktop/C#_OOP/bin/Debug/net10.0/C#_OOP.deps.json
+/Users/samsouta/Desktop/C#_OOP/bin/Debug/net10.0/C#_OOP.runtimeconfig.json
+/Users/samsouta/Desktop/C#_OOP/bin/Debug/net10.0/C#_OOP.dll
+/Users/samsouta/Desktop/C#_OOP/bin/Debug/net10.0/C#_OOP.pdb
+/Users/samsouta/Desktop/C#_OOP/obj/Debug/net10.0/C#_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samsouta/Desktop/C#_OOP/obj/Debug/net10.0/C#_OOP.AssemblyInfoInputs.cache
+/Users/samsouta/Desktop/C#_OOP/obj/Debug/net10.0/C#_OOP.AssemblyInfo.cs
+/Users/samsouta/Desktop/C#_OOP/obj/Debug/net10.0/C#_OOP.csproj.CoreCompileInputs.cache
+/Users/samsouta/Desktop/C#_OOP/obj/Debug/net10.0/C#_OOP.dll
+/Users/samsouta/Desktop/C#_OOP/obj/Debug/net10.0/refint/C#_OOP.dll
+/Users/samsouta/Desktop/C#_OOP/obj/Debug/net10.0/C#_OOP.pdb
+/Users/samsouta/Desktop/C#_OOP/obj/Debug/net10.0/C#_OOP.genruntimeconfig.cache
+/Users/samsouta/Desktop/C#_OOP/obj/Debug/net10.0/ref/C#_OOP.dll

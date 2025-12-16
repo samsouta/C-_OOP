@@ -1,0 +1,14 @@
+/Users/samsouta/Desktop/C#/banking-system/bin/Debug/net10.0/banking-system
+/Users/samsouta/Desktop/C#/banking-system/bin/Debug/net10.0/banking-system.deps.json
+/Users/samsouta/Desktop/C#/banking-system/bin/Debug/net10.0/banking-system.runtimeconfig.json
+/Users/samsouta/Desktop/C#/banking-system/bin/Debug/net10.0/banking-system.dll
+/Users/samsouta/Desktop/C#/banking-system/bin/Debug/net10.0/banking-system.pdb
+/Users/samsouta/Desktop/C#/banking-system/obj/Debug/net10.0/banking-system.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samsouta/Desktop/C#/banking-system/obj/Debug/net10.0/banking-system.AssemblyInfoInputs.cache
+/Users/samsouta/Desktop/C#/banking-system/obj/Debug/net10.0/banking-system.AssemblyInfo.cs
+/Users/samsouta/Desktop/C#/banking-system/obj/Debug/net10.0/banking-system.csproj.CoreCompileInputs.cache
+/Users/samsouta/Desktop/C#/banking-system/obj/Debug/net10.0/banking-system.dll
+/Users/samsouta/Desktop/C#/banking-system/obj/Debug/net10.0/refint/banking-system.dll
+/Users/samsouta/Desktop/C#/banking-system/obj/Debug/net10.0/banking-system.pdb
+/Users/samsouta/Desktop/C#/banking-system/obj/Debug/net10.0/banking-system.genruntimeconfig.cache
+/Users/samsouta/Desktop/C#/banking-system/obj/Debug/net10.0/ref/banking-system.dll
