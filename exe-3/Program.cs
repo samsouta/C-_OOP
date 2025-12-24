@@ -13,16 +13,16 @@ class Program
         List<char> grades = new List<char>();
 
         int inputCol = 0;    
-        int reportCol = 40;   
+        int reportCol = 50;   
 
         for (int i = 0; i < totalStudents; i++)
         {
             Console.SetCursorPosition(inputCol, i * 3);
-            Console.Write("Enter Student Name  ");
+            Console.Write("Enter Student Name  : ->  ");
             string name = Console.ReadLine();
 
             Console.SetCursorPosition(inputCol, i * 3 + 1);
-            Console.Write("Enter Student Mark  ");
+            Console.Write("Enter Student Mark : ->  ");
             int mark = int.Parse(Console.ReadLine());
 
             names.Add(name);
@@ -38,14 +38,14 @@ class Program
 
         row++;
         Console.SetCursorPosition(reportCol, row++);
-        Console.WriteLine("NO.   STUDENT NAME        MARK   GRADE");
+        Console.WriteLine("NO.    STUDENT NAME       MARK   GRADE");
 
         Console.SetCursorPosition(reportCol, row++);
         Console.WriteLine("--------------------------------------");
 
         for (int i = 0; i < totalStudents; i++)
         {
-            Console.SetCursorPosition(reportCol, row++);
+            Console.SetCursorPosition(reportCol, row);
             Console.WriteLine(
                 string.Format("{0,-5} {1,-18} {2,-6} {3}",
                 i + 1,
@@ -53,6 +53,7 @@ class Program
                 marks[i],
                 grades[i])
             );
+            row += 2; 
         }
 
         double average = marks.Average();

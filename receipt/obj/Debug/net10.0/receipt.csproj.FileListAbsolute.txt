@@ -1,0 +1,15 @@
+/Users/samsouta/Desktop/C#/receipt/obj/Debug/net10.0/receipt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samsouta/Desktop/C#/receipt/obj/Debug/net10.0/receipt.AssemblyInfoInputs.cache
+/Users/samsouta/Desktop/C#/receipt/obj/Debug/net10.0/receipt.AssemblyInfo.cs
+/Users/samsouta/Desktop/C#/receipt/obj/Debug/net10.0/receipt.csproj.CoreCompileInputs.cache
+/Users/samsouta/Desktop/C#/receipt/obj/Debug/net10.0/receipt.sourcelink.json
+/Users/samsouta/Desktop/C#/receipt/bin/Debug/net10.0/receipt
+/Users/samsouta/Desktop/C#/receipt/bin/Debug/net10.0/receipt.deps.json
+/Users/samsouta/Desktop/C#/receipt/bin/Debug/net10.0/receipt.runtimeconfig.json
+/Users/samsouta/Desktop/C#/receipt/bin/Debug/net10.0/receipt.dll
+/Users/samsouta/Desktop/C#/receipt/bin/Debug/net10.0/receipt.pdb
+/Users/samsouta/Desktop/C#/receipt/obj/Debug/net10.0/receipt.dll
+/Users/samsouta/Desktop/C#/receipt/obj/Debug/net10.0/refint/receipt.dll
+/Users/samsouta/Desktop/C#/receipt/obj/Debug/net10.0/receipt.pdb
+/Users/samsouta/Desktop/C#/receipt/obj/Debug/net10.0/receipt.genruntimeconfig.cache
+/Users/samsouta/Desktop/C#/receipt/obj/Debug/net10.0/ref/receipt.dll

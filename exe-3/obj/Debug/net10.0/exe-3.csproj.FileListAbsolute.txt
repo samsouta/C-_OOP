@@ -12,3 +12,4 @@
 /Users/samsouta/Desktop/C#/exe-3/obj/Debug/net10.0/exe-3.pdb
 /Users/samsouta/Desktop/C#/exe-3/obj/Debug/net10.0/exe-3.genruntimeconfig.cache
 /Users/samsouta/Desktop/C#/exe-3/obj/Debug/net10.0/ref/exe-3.dll
+/Users/samsouta/Desktop/C#/exe-3/obj/Debug/net10.0/exe-3.sourcelink.json

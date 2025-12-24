@@ -1,0 +1,15 @@
+/Users/samsouta/Desktop/C#/exe-today/bin/Debug/net10.0/exe-today
+/Users/samsouta/Desktop/C#/exe-today/bin/Debug/net10.0/exe-today.deps.json
+/Users/samsouta/Desktop/C#/exe-today/bin/Debug/net10.0/exe-today.runtimeconfig.json
+/Users/samsouta/Desktop/C#/exe-today/bin/Debug/net10.0/exe-today.dll
+/Users/samsouta/Desktop/C#/exe-today/bin/Debug/net10.0/exe-today.pdb
+/Users/samsouta/Desktop/C#/exe-today/obj/Debug/net10.0/exe-today.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samsouta/Desktop/C#/exe-today/obj/Debug/net10.0/exe-today.AssemblyInfoInputs.cache
+/Users/samsouta/Desktop/C#/exe-today/obj/Debug/net10.0/exe-today.AssemblyInfo.cs
+/Users/samsouta/Desktop/C#/exe-today/obj/Debug/net10.0/exe-today.csproj.CoreCompileInputs.cache
+/Users/samsouta/Desktop/C#/exe-today/obj/Debug/net10.0/exe-today.sourcelink.json
+/Users/samsouta/Desktop/C#/exe-today/obj/Debug/net10.0/exe-today.dll
+/Users/samsouta/Desktop/C#/exe-today/obj/Debug/net10.0/refint/exe-today.dll
+/Users/samsouta/Desktop/C#/exe-today/obj/Debug/net10.0/exe-today.pdb
+/Users/samsouta/Desktop/C#/exe-today/obj/Debug/net10.0/exe-today.genruntimeconfig.cache
+/Users/samsouta/Desktop/C#/exe-today/obj/Debug/net10.0/ref/exe-today.dll
